@@ -1,5 +1,6 @@
 <img src="https://github.com/victoria-lo/victoria-lo/blob/master/myGif.gif" alt="Here is a little bit about me!">
-Here are some ideas to get you started:
+
+### Some Things About Me:
 
 - 🔍 Focusing on personal & freelancing projects and publishing on Medium & Hashnode.
 - 🌱 Learning React Hooks/Native and TypeScript.
