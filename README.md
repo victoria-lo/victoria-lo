@@ -1,8 +1,4 @@
-### Hi there 👋
-
-<!--
-**victoria-lo/victoria-lo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="https://github.com/victoria-lo/victoria-lo/blob/master/myGif.gif" alt="Here is a little bit about me!">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
