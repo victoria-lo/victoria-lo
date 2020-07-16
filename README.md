@@ -6,8 +6,10 @@
 - 🌱 Learning React Hooks/Native and TypeScript.
 - 🌐 Existing somewhere on [Twitter](https://twitter.com/lo_victoria2666), [Hashnode](https://lo-victoria.com/), [Medium](https://medium.com/@victoria2666).
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: Speaks English, Mandarin, Indonesian, Japanese and Korean. INTJ. Drinks tea everyday.
+- 🖥️ Coding Environment: Dark 🕶️ + Music 🎧 + Tea 🍵
+- ⚡ Fun facts: Speaks English, Mandarin, Indonesian, Japanese and Korean. INTJ. Drinks tea everyday.
 - 🏠 Hogwarts House: Ravenclaw
+- 🐞 Bugs: Perfectionism, camera shyness, afraid of real bugs and lobsters
 - 💎 Treasures: Nintendo Switch, Tea, ebooks, Surface headphones
 - 📖 Currently Reading: "Mastery" by Robert Greene
 - 💬 Favourite Quotes: 
