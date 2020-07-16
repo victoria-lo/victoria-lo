@@ -4,7 +4,7 @@
 
 - 🔍 Focusing on personal & freelancing projects and publishing on Medium & Hashnode.
 - 🌱 Learning React Hooks/Native and TypeScript.
-- 🌐 Existing somewhere on [Twitter](https://twitter.com/lo_victoria2666), [Hashnode](https://hashnode.com/@victoria) and [Medium](https://medium.com/@victoria2666).
+- 🌐 Existing somewhere on [Twitter](https://twitter.com/lo_victoria2666), [Hashnode](https://lo-victoria.com/), [Medium](https://medium.com/@victoria2666).
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: English, Mandarin, Indonesian, Japanese and Korean. Lived in 5 different countries. Drink tea everyday.
 - 💎 Treasures: Nintendo Switch, Tea, ebooks, Surface headphones
