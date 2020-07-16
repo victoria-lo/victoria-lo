@@ -6,7 +6,8 @@
 - 🌱 Learning React Hooks/Native and TypeScript.
 - 🌐 Existing somewhere on [Twitter](https://twitter.com/lo_victoria2666), [Hashnode](https://lo-victoria.com/), [Medium](https://medium.com/@victoria2666).
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: English, Mandarin, Indonesian, Japanese and Korean. Lived in 5 different countries. Drink tea everyday.
+- ⚡ Fun fact: Speaks English, Mandarin, Indonesian, Japanese and Korean. INTJ. Drinks tea everyday.
+- 🏠 Hogwarts House: Ravenclaw
 - 💎 Treasures: Nintendo Switch, Tea, ebooks, Surface headphones
 - 📖 Currently Reading: "Mastery" by Robert Greene
 - 💬 Favourite Quotes: 
