@@ -20,4 +20,9 @@
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [Build a Node.js API for Beginners #4: Finalizing Controllers](https://lo-victoria.com/build-a-nodejs-api-for-beginners-4-finalizing-controllers-ckdi6itoe0097wgs1hr4530c6)
+- [Build a Node.js API for Beginners #3: Integrating MongoDB Atlas](https://lo-victoria.com/build-a-nodejs-api-for-beginners-3-integrating-mongodb-atlas-ckdgk9irb00ikdns16xr5b5et)
+- [Build a Node.js API for Beginners #2: Routes and Controllers](https://lo-victoria.com/build-a-nodejs-api-for-beginners-2-routes-and-controllers-ckder50v20005xxs13rfsg1r8)
+- [Build a Node.js API for Beginners #1.5: HTTP Module & Express](https://lo-victoria.com/build-a-nodejs-api-for-beginners-15-http-module-and-express-ckdd2168w006xyss1atvia0on)
+- [Build a Node.js API for Beginners #1: Designing & Planning your API](https://lo-victoria.com/build-a-nodejs-api-for-beginners-1-designing-and-planning-your-api-ckdcat2o903cj66s1g7tu0cds)
 <!-- BLOG:END -->
