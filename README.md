@@ -19,5 +19,5 @@
 > "You don't have to be great to start, but you have to start to be great"  - Zig Zagler
 
 ### 📝 Check out my latest articles!
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG:START -->
+<!-- BLOG:END -->
