@@ -20,9 +20,9 @@
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [Testing MVC APIs with Supertest and Jest](https://lo-victoria.com/testing-mvc-apis-with-supertest-and-jest-ckds2j2xp00jx97s13bo41m1a)
 - [Let's Build A 'Face' for a REST API](https://lo-victoria.com/lets-build-a-face-for-a-rest-api-ckdpcvvmq011fl9s12sjibkvp)
 - [Build a Node.js API for Beginners #6: Deploying the API (Finale)](https://lo-victoria.com/build-a-nodejs-api-for-beginners-6-deploying-the-api-finale-ckdl283wo042gz2s14etl796m)
 - [Build a Node.js API for Beginners #5: Upload an Image File](https://lo-victoria.com/build-a-nodejs-api-for-beginners-5-upload-an-image-file-ckdjl0cbq01vpz2s15dk37yqj)
 - [Build a Node.js API for Beginners #4: Finalizing Controllers](https://lo-victoria.com/build-a-nodejs-api-for-beginners-4-finalizing-controllers-ckdi6itoe0097wgs1hr4530c6)
-- [Build a Node.js API for Beginners #3: Integrating MongoDB Atlas](https://lo-victoria.com/build-a-nodejs-api-for-beginners-3-integrating-mongodb-atlas-ckdgk9irb00ikdns16xr5b5et)
 <!-- BLOG:END -->
