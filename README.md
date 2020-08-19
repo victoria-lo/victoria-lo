@@ -20,9 +20,9 @@
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [Build a Contact Form with Vanilla JS and NodeMailer](https://lo-victoria.com/build-a-contact-form-with-vanilla-js-and-nodemailer-cke19jdq2003pwis137d891dj)
 - [Vanilla CSS vs Bootstrap vs Tailwind: An Analysis](https://lo-victoria.com/vanilla-css-vs-bootstrap-vs-tailwind-an-analysis-ckdzhyqsj00mu4us1h1pud0mr)
 - [Unit and Integration Testing with Buddy](https://lo-victoria.com/unit-and-integration-testing-with-buddy-ckduyo7ke00amids1gjfqf729)
 - [Testing MVC APIs with Supertest and Jest](https://lo-victoria.com/testing-mvc-apis-with-supertest-and-jest-ckds2j2xp00jx97s13bo41m1a)
 - [Let's Build A 'Face' for a REST API](https://lo-victoria.com/lets-build-a-face-for-a-rest-api-ckdpcvvmq011fl9s12sjibkvp)
-- [Build a Node.js API for Beginners #6: Deploying the API (Finale)](https://lo-victoria.com/build-a-nodejs-api-for-beginners-6-deploying-the-api-finale-ckdl283wo042gz2s14etl796m)
 <!-- BLOG:END -->
