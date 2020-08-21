@@ -18,6 +18,8 @@
 
 > "You don't have to be great to start, but you have to start to be great"  - Zig Zagler
 
+------
+
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
 - [Build a Contact Form with Vanilla JS and NodeMailer](https://lo-victoria.com/build-a-contact-form-with-vanilla-js-and-nodemailer-cke19jdq2003pwis137d891dj)
@@ -26,3 +28,7 @@
 - [Testing MVC APIs with Supertest and Jest](https://lo-victoria.com/testing-mvc-apis-with-supertest-and-jest-ckds2j2xp00jx97s13bo41m1a)
 - [Let's Build A 'Face' for a REST API](https://lo-victoria.com/lets-build-a-face-for-a-rest-api-ckdpcvvmq011fl9s12sjibkvp)
 <!-- BLOG:END -->
+
+-----
+
+![Victoria's github stats](https://github-readme-stats.vercel.app/api?username=victoria-lo&show_icons=true&count_private=true)
