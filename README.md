@@ -22,11 +22,11 @@
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [100 Days of Hashnode: The Journey So Far](https://lo-victoria.com/100-days-of-hashnode-the-journey-so-far)
 - [Introduction to React Context API with Firebase Authentication](https://lo-victoria.com/introduction-to-react-context-api-with-firebase-authentication)
 - [Introduction to REST API Authentication Methods](https://lo-victoria.com/introduction-to-rest-api-authentication-methods)
 - [Build a Contact Form with Vanilla JS and NodeMailer](https://lo-victoria.com/build-a-contact-form-with-vanilla-js-and-nodemailer)
 - [Vanilla CSS vs Bootstrap vs Tailwind: An Analysis](https://lo-victoria.com/vanilla-css-vs-bootstrap-vs-tailwind-an-analysis)
-- [Unit and Integration Testing with Buddy](https://lo-victoria.com/unit-and-integration-testing-with-buddy)
 <!-- BLOG:END -->
 
 -----
