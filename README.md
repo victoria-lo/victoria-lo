@@ -22,11 +22,11 @@
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [Why React Keys Matter: An Introduction](https://lo-victoria.com/why-react-keys-matter-an-introduction)
 - [Continuous Delivery and Heroku with Buddy](https://lo-victoria.com/continuous-delivery-and-heroku-with-buddy)
 - [Making Draggable Components in React](https://lo-victoria.com/making-draggable-components-in-react)
 - [Let's Build A React Progressive Web App (ft. T-API)](https://lo-victoria.com/lets-build-a-react-progressive-web-app)
 - [Client-Side Rendering vs Server-Side Rendering vs Static Site Generation](https://lo-victoria.com/client-side-rendering-vs-server-side-rendering-vs-static-site-generation)
-- [100 Days of Hashnode: The Journey So Far](https://lo-victoria.com/100-days-of-hashnode-the-journey-so-far)
 <!-- BLOG:END -->
 
 -----
