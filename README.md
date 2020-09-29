@@ -22,11 +22,11 @@
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [The DevOps Finale: Continuous Deployment](https://lo-victoria.com/the-devops-finale-continuous-deployment)
 - [The Implications of DangerouslySetInnerHTML in React](https://lo-victoria.com/the-implications-of-dangerouslysetinnerhtml-in-react)
 - [The Scientific Approach to Planning and Prioritization](https://lo-victoria.com/the-scientific-approach-to-planning-and-prioritization)
 - [A Simple Guide to Build React Form with Hooks](https://lo-victoria.com/a-simple-guide-to-build-react-form-with-hooks)
 - [Why React Keys Matter: An Introduction](https://lo-victoria.com/why-react-keys-matter-an-introduction)
-- [Continuous Delivery and Heroku with Buddy](https://lo-victoria.com/continuous-delivery-and-heroku-with-buddy)
 <!-- BLOG:END -->
 
 -----
