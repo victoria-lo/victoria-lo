@@ -22,11 +22,11 @@
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [Introduction to Cross Origin Resource Sharing (CORS)](https://lo-victoria.com/introduction-to-cross-origin-resource-sharing-cors)
+- [Making Typing Animation with React Hooks](https://lo-victoria.com/making-typing-animation-with-react-hooks)
+- [My Formula for Consistency](https://lo-victoria.com/my-formula-for-consistency)
+- [10 About Pages on Hashnode to Blow Your Mind](https://lo-victoria.com/10-about-pages-on-hashnode-to-blow-your-mind)
 - [Creating an About page on your Hashnode Blog](https://lo-victoria.com/creating-an-about-page-on-your-hashnode-blog)
-- [The DevOps Finale: Continuous Deployment](https://lo-victoria.com/the-devops-finale-continuous-deployment)
-- [The Implications of DangerouslySetInnerHTML in React](https://lo-victoria.com/the-implications-of-dangerouslysetinnerhtml-in-react)
-- [The Scientific Approach to Planning and Prioritization](https://lo-victoria.com/the-scientific-approach-to-planning-and-prioritization)
-- [A Simple Guide to Build React Form with Hooks](https://lo-victoria.com/a-simple-guide-to-build-react-form-with-hooks)
 <!-- BLOG:END -->
 
 -----
