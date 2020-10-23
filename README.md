@@ -22,11 +22,11 @@
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [Functional vs Object-Oriented Programming](https://lo-victoria.com/functional-vs-object-oriented-programming)
+- [The Age of Personalized User Experience: Recommendation Systems](https://lo-victoria.com/the-age-of-personalized-user-experience-recommendation-systems)
 - [Introduction to Cross Origin Resource Sharing (CORS)](https://lo-victoria.com/introduction-to-cross-origin-resource-sharing-cors)
 - [Making Typing Animation with React Hooks](https://lo-victoria.com/making-typing-animation-with-react-hooks)
 - [My Formula for Consistency](https://lo-victoria.com/my-formula-for-consistency)
-- [10 About Pages on Hashnode to Blow Your Mind](https://lo-victoria.com/10-about-pages-on-hashnode-to-blow-your-mind)
-- [Creating an About page on your Hashnode Blog](https://lo-victoria.com/creating-an-about-page-on-your-hashnode-blog)
 <!-- BLOG:END -->
 
 -----
