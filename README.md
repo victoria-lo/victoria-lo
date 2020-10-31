@@ -3,14 +3,14 @@
 ### Some Things About Me:
 
 - 🔍 Focusing on personal & freelancing projects; and publishing on Medium & Hashnode.
-- 🌱 Learning TypeScript, GraphQL.
+- 🌱 Learning TypeScript
 - 🌐 Exists somewhere on [Twitter](https://twitter.com/lo_victoria2666), [Hashnode](https://lo-victoria.com/), [Medium](https://medium.com/@victoria2666).
 - 😄 Pronouns: She/her
 - 🖥️ Coding Environment: Dark 🕶️ + Music 🎧 + Tea 🍵
 - ⚡ Fun facts: Speaks English, Mandarin, Indonesian, Japanese and Korean. INTJ. Drinks tea everyday.
 - 🏠 Hogwarts House: Ravenclaw
 - 💎 Treasures: Nintendo Switch, Tea, ebooks, Surface headphones
-- 📖 Currently Reading: "Shoe Dor" by Phil Knight
+- 📖 Currently Reading: "Shoe Dog" by Phil Knight
 - 💬 Favourite Quotes: 
 > "If you don't wake up everyday with a burning desire to do things, you don't have enough goals." - Lou Holtz
 
