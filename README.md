@@ -22,11 +22,11 @@
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [My Blog Ideation Process](https://lo-victoria.com/my-blog-ideation-process)
+- [Developing a Writing Style as a Technical Writer](https://lo-victoria.com/developing-a-writing-style-as-a-technical-writer)
+- [My October Passion Project: Gameo](https://lo-victoria.com/my-october-passion-project-gameo)
+- [5 Reasons Why You Should Blog on Hashnode](https://lo-victoria.com/5-reasons-why-you-should-blog-on-hashnode)
 - [Functional vs Object-Oriented Programming](https://lo-victoria.com/functional-vs-object-oriented-programming)
-- [The Age of Personalized User Experience: Recommendation Systems](https://lo-victoria.com/the-age-of-personalized-user-experience-recommendation-systems)
-- [Introduction to Cross Origin Resource Sharing (CORS)](https://lo-victoria.com/introduction-to-cross-origin-resource-sharing-cors)
-- [Making Typing Animation with React Hooks](https://lo-victoria.com/making-typing-animation-with-react-hooks)
-- [My Formula for Consistency](https://lo-victoria.com/my-formula-for-consistency)
 <!-- BLOG:END -->
 
 -----
