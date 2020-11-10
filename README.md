@@ -22,11 +22,11 @@
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [Testing React Apps with Enzyme](https://lo-victoria.com/testing-react-apps-with-enzyme)
 - [My Blog Ideation Process](https://lo-victoria.com/my-blog-ideation-process)
 - [Developing a Writing Style as a Technical Writer](https://lo-victoria.com/developing-a-writing-style-as-a-technical-writer)
 - [My October Passion Project: Gameo](https://lo-victoria.com/my-october-passion-project-gameo)
 - [5 Reasons Why You Should Blog on Hashnode](https://lo-victoria.com/5-reasons-why-you-should-blog-on-hashnode)
-- [Functional vs Object-Oriented Programming](https://lo-victoria.com/functional-vs-object-oriented-programming)
 <!-- BLOG:END -->
 
 -----
