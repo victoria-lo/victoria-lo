@@ -22,11 +22,11 @@
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
-- [Introduction to Firebase Storage #2: Retrieve & Delete Files](https://lo-victoria.com/introduction-to-firebase-storage-retrieve-delete-files)
-- [Introduction to Firebase Storage #1: Uploading Files](https://lo-victoria.com/introduction-to-firebase-storage-uploading-files)
 - [Why You Don't Have to be Good at English to Start a Tech Blog](https://lo-victoria.com/why-you-dont-have-to-be-good-at-english-to-start-a-tech-blog)
 - [Testing React Apps with Enzyme](https://lo-victoria.com/testing-react-apps-with-enzyme)
 - [My Blog Ideation Process](https://lo-victoria.com/my-blog-ideation-process)
+- [Developing a Writing Style as a Technical Writer](https://lo-victoria.com/developing-a-writing-style-as-a-technical-writer)
+- [My October Passion Project: Gameo](https://lo-victoria.com/my-october-passion-project-gameo)
 <!-- BLOG:END -->
 
 -----
