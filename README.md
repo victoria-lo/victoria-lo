@@ -22,11 +22,11 @@
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [5 Ways How Blogging Changed My Life](https://lo-victoria.com/5-ways-how-blogging-changed-my-life)
 - [My 2020 In Summary and Going Forward](https://lo-victoria.com/my-2020-in-summary-and-going-forward)
 - [5 Common Beginner Blogging Mistakes](https://lo-victoria.com/5-common-beginner-blogging-mistakes)
 - [The Super Mario Effect for Developers](https://lo-victoria.com/the-super-mario-effect-for-developers)
 - [Beginner's Guide to Write and Publish React NPM Package](https://lo-victoria.com/beginners-guide-to-write-and-publish-react-npm-package)
-- [Tips to Negotiating Pay as a Freelance Developer](https://lo-victoria.com/tips-to-negotiating-pay-as-a-freelance-developer)
 <!-- BLOG:END -->
 
 -----
