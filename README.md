@@ -22,11 +22,11 @@
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [Build a MySQL Node.js CRUD App #2: MySQL Integration](https://lo-victoria.com/build-a-mysql-nodejs-crud-app-2-mysql-integration)
 - [My New Year Hackathon Project: Image Classification Pokédex](https://lo-victoria.com/my-new-year-hackathon-project-image-classification-pokedex-1)
 - [Build MySQL Node.js CRUD App #1: Setting Up](https://lo-victoria.com/build-mysql-nodejs-crud-app-1-setting-up)
 - [How I Built My First Trading Bot For Hashnode's Hackathon](https://lo-victoria.com/how-i-built-my-first-trading-bot-for-hashnodes-hackathon)
 - [5 Ways How Blogging Changed My Life](https://lo-victoria.com/5-ways-how-blogging-changed-my-life)
-- [My 2020 In Summary and Going Forward](https://lo-victoria.com/my-2020-in-summary-and-going-forward)
 <!-- BLOG:END -->
 
 -----
