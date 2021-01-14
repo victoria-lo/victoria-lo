@@ -2,9 +2,9 @@
 
 ### Some Things About Me:
 
-- 🔍 Focusing on personal projects; and publishing on Medium & Hashnode.
-- 🌱 Learning Machine Learning and Algorithmic Trading
-- 🌐 Exists somewhere on [Twitter](https://twitter.com/lo_victoria2666), [Hashnode](https://lo-victoria.com/), [Medium](https://medium.com/@victoria2666).
+- 🔍 Focusing on personal growth; and publishing articles on Medium, Dev.to & Hashnode.
+- 🌱 Learning Machine Learning and Algorithmic Trading.
+- 🌐 Exists somewhere on [Twitter](https://twitter.com/lo_victoria2666), [Hashnode](https://lo-victoria.com/), [Medium](https://medium.com/@victoria2666), [Dev.to](https://dev.to/lo_victoria2666).
 - 😄 Pronouns: She/her
 - 🖥️ Coding Environment: Dark 🕶️ + Music 🎧 + Tea 🍵
 - ⚡ Fun facts: Speaks English, Mandarin, Indonesian, Japanese and Korean. INTJ. Drinks tea everyday.
