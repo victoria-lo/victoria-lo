@@ -22,11 +22,11 @@
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [Why a Personal Brand is Important for a Developer](https://lo-victoria.com/why-a-personal-brand-is-important-for-a-developer)
 - [Build Interactive and Responsive Charts with Chart.js](https://lo-victoria.com/build-interactive-and-responsive-charts-with-chartjs)
 - [SQL vs NoSQL: Choosing Database Design](https://lo-victoria.com/sql-vs-nosql-choosing-database-design)
 - [Why Burnouts Should Not Be Ignored](https://lo-victoria.com/why-burnouts-should-not-be-ignored)
 - [Why Side Projects are Important to Developers](https://lo-victoria.com/why-side-projects-are-important-to-developers)
-- [Build a MySQL Node.js CRUD App #4: Deploying to Heroku (Finale)](https://lo-victoria.com/build-a-mysql-nodejs-crud-app-4-deploying-to-heroku-finale)
 <!-- BLOG:END -->
 
 -----
