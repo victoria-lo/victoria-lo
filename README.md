@@ -22,11 +22,11 @@
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [What It Means to Be Focused: A Personal Story](https://lo-victoria.com/what-it-means-to-be-focused-a-personal-story)
 - [A Self-Care Slack Bot for Postman API Hackathon](https://lo-victoria.com/a-self-care-slack-bot-for-postman-api-hackathon)
 - [Why a Personal Brand is Important for a Developer](https://lo-victoria.com/why-a-personal-brand-is-important-for-a-developer)
 - [Build Interactive and Responsive Charts with Chart.js](https://lo-victoria.com/build-interactive-and-responsive-charts-with-chartjs)
 - [SQL vs NoSQL: Choosing Database Design](https://lo-victoria.com/sql-vs-nosql-choosing-database-design)
-- [Why Burnouts Should Not Be Ignored](https://lo-victoria.com/why-burnouts-should-not-be-ignored)
 <!-- BLOG:END -->
 
 -----
