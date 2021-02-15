@@ -22,11 +22,11 @@
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [A Look at React Hooks: useState](https://lo-victoria.com/a-look-at-react-hooks-usestate)
 - [A Look At React Hooks: Introduction](https://lo-victoria.com/a-look-at-react-hooks-introduction)
 - [What It Means to Be Focused: A Personal Story](https://lo-victoria.com/what-it-means-to-be-focused-a-personal-story)
 - [A Self-Care Slack Bot for Postman API Hackathon](https://lo-victoria.com/a-self-care-slack-bot-for-postman-api-hackathon)
 - [Why a Personal Brand is Important for a Developer](https://lo-victoria.com/why-a-personal-brand-is-important-for-a-developer)
-- [Build Interactive and Responsive Charts with Chart.js](https://lo-victoria.com/build-interactive-and-responsive-charts-with-chartjs)
 <!-- BLOG:END -->
 
 -----
