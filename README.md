@@ -22,11 +22,11 @@
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [A Look At React Hooks: useRef](https://lo-victoria.com/a-look-at-react-hooks-useref)
 - [A Look At React Hooks: useContext](https://lo-victoria.com/a-look-at-react-hooks-usecontext)
 - [A Look At React Hooks: useEffect](https://lo-victoria.com/a-look-at-react-hooks-useeffect)
 - [A Look at React Hooks: useState](https://lo-victoria.com/a-look-at-react-hooks-usestate)
 - [A Look At React Hooks: Introduction](https://lo-victoria.com/a-look-at-react-hooks-introduction)
-- [What It Means to Be Focused: A Personal Story](https://lo-victoria.com/what-it-means-to-be-focused-a-personal-story)
 <!-- BLOG:END -->
 
 -----
