@@ -22,11 +22,11 @@
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [A Look At React Hooks: useCallback](https://lo-victoria.com/a-look-at-react-hooks-usecallback)
 - [A Look At React Hooks: useReducer](https://lo-victoria.com/a-look-at-react-hooks-usereducer)
 - [#ChooseToChallenge: Taking the First Step](https://lo-victoria.com/choosetochallenge-taking-the-first-step)
 - [A Look At React Hooks: useRef](https://lo-victoria.com/a-look-at-react-hooks-useref)
 - [A Look At React Hooks: useContext](https://lo-victoria.com/a-look-at-react-hooks-usecontext)
-- [A Look At React Hooks: useEffect](https://lo-victoria.com/a-look-at-react-hooks-useeffect)
 <!-- BLOG:END -->
 
 -----
