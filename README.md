@@ -22,11 +22,11 @@
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [Why Software Developers Should Build Games](https://lo-victoria.com/why-software-developers-should-build-games)
 - [A Look at React Hooks: useMemo](https://lo-victoria.com/a-look-at-react-hooks-usememo)
 - [A Look At React Hooks: useCallback](https://lo-victoria.com/a-look-at-react-hooks-usecallback)
 - [A Look At React Hooks: useReducer](https://lo-victoria.com/a-look-at-react-hooks-usereducer)
 - [#ChooseToChallenge: Taking the First Step](https://lo-victoria.com/choosetochallenge-taking-the-first-step)
-- [A Look At React Hooks: useRef](https://lo-victoria.com/a-look-at-react-hooks-useref)
 <!-- BLOG:END -->
 
 -----
