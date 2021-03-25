@@ -22,11 +22,11 @@
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [How to Build a Quote Gallery App using Google Sheets](https://lo-victoria.com/how-to-build-a-quote-gallery-app-using-google-sheets)
 - [How To Publish The Ideal Blog Post](https://lo-victoria.com/how-to-publish-the-ideal-blog-post)
 - [Why Software Developers Should Build Games](https://lo-victoria.com/why-software-developers-should-build-games)
 - [A Look at React Hooks: useMemo](https://lo-victoria.com/a-look-at-react-hooks-usememo)
 - [A Look At React Hooks: useCallback](https://lo-victoria.com/a-look-at-react-hooks-usecallback)
-- [A Look At React Hooks: useReducer](https://lo-victoria.com/a-look-at-react-hooks-usereducer)
 <!-- BLOG:END -->
 
 -----
