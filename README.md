@@ -6,15 +6,18 @@
 
 
 ### Some Things About Me
-<li>💼 Solutions/Integration Engineer at <a href="https://www.paypal.com/ca/home" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/-paypal-f2ba36?&style=for-the-badge&&logo=paypal&logoColor=white" /></a></li>
-<li>✍️Technical Blogger at <a href="https://lo-victoria.com" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/-Personal%20Blog-add8e6?&style=for-the-badge" /></a> <a href="https://medium.com/@victoria2666" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/-Medium-0A0A0A?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://dev.to/lo_victoria2666" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/-Dev.To-0A0A0A?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+<li>💼 Solutions/Integration Engineer at <a href="https://www.paypal.com/ca/home" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/-PayPal-f2ba36?&style=flat-square&&logo=paypal" /></a></li>
+<li>✍️Technical Blogger at <a href="https://lo-victoria.com" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/-Personal%20Blog-add8e6?&style=flat-square" /></a> <a href="https://medium.com/@victoria2666" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/-Medium-0A0A0A?&style=flat-square&logo=medium&logoColor=white" /></a>
+<a href="https://dev.to/lo_victoria2666" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/-Dev.To-0A0A0A?&style=flat-square&logo=dev.to&logoColor=white" /></a>
 </li>
 <li> 🌐 Exists somewhere on <a href="https://twitter.com/lo_victoria2666" target="_blank">
-<img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" /></a>
-<a href="https://github.com/victoria-lo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /><a href="https://www.linkedin.com/in/victoria2666/" target="_blank">
-<img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a><a href="https://hashnode.com/@victoria" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=for-the-badge" /></a>
+<img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square" /></a>
+<a href="https://github.com/victoria-lo" target="_blank">
+<img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?&style=flat-square&logo=github&logoColor=white" />
+<a href="https://www.linkedin.com/in/victoria2666/" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://hashnode.com/@victoria" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=flat-square" /></a>
 </a></li>
 <li>😄 Pronouns: She/her</li>
 <li>🖥️ Coding Environment: Dark 🕶️ + Music 🎧 + Tea 🍵</li>
@@ -30,7 +33,7 @@
 
 > "You don't have to be great to start, but you have to start to be great"  - Zig Zagler
 </li>
-<li>🙏 Support me at <a href="https://www.buymeacoffee.com/victoria2666" target="_blank"><img alt="Buy Me a Coffee" src="https://img.shields.io/badge/-buy%20me%20a%20coffee-ffdd00?&style=for-the-badge&&logo=buy%20me%20a%20coffee&logoColor=black" /></a></li>
+<li>🙏 Support me at <a href="https://www.buymeacoffee.com/victoria2666" target="_blank"><img alt="Buy Me a Coffee" src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-ffdd00?&style=flat-square&&logo=buy%20me%20a%20coffee&logoColor=black" /></a></li>
 
 ------
 
