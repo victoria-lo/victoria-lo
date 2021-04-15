@@ -42,11 +42,11 @@ My name is Victoria. I'm a Solutions/Integration Engineer and a passionate techn
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [Debugging JavaScript Efficiently with Chrome DevTools](https://lo-victoria.com/debugging-javascript-efficiently-with-chrome-devtools)
 - [What You Need To Know About Technical Writing vs Technical Blogging](https://lo-victoria.com/what-you-need-to-know-about-technical-writing-vs-technical-blogging)
 - [The Ultimate Resume Guide for Developers](https://lo-victoria.com/the-ultimate-resume-guide-for-developers)
 - [How to Build a Quote Gallery App using Google Sheets](https://lo-victoria.com/how-to-build-a-quote-gallery-app-using-google-sheets)
 - [How To Publish The Ideal Blog Post](https://lo-victoria.com/how-to-publish-the-ideal-blog-post)
-- [Why Software Developers Should Build Games](https://lo-victoria.com/why-software-developers-should-build-games)
 <!-- BLOG:END -->
 
 -----
