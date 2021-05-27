@@ -42,11 +42,11 @@ My name is Victoria. I'm a Solutions/Integration Engineer and a passionate techn
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [From Blogging to YouTube: An Introvert's Huge Challenge](https://lo-victoria.com/from-blogging-to-youtube-an-introverts-huge-challenge)
 - [365 Days of Hashnode: How I Overcome Imposter's Syndrome](https://lo-victoria.com/365-days-of-hashnode-how-i-overcome-imposters-syndrome)
 - [Build Interactive API Documentations Easily with Swagger](https://lo-victoria.com/build-interactive-api-documentations-easily-with-swagger)
 - [React Cheat Sheet for Beginners](https://lo-victoria.com/react-cheat-sheet-for-beginners)
 - [Automate GitHub: Build a CLI App with Node.js #2](https://lo-victoria.com/automate-github-build-a-cli-app-with-nodejs-2)
-- [Automate GitHub: Build a CLI App with Node.js #1](https://lo-victoria.com/automate-github-build-a-cli-app-with-nodejs-1)
 <!-- BLOG:END -->
 
 -----
