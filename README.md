@@ -42,11 +42,11 @@ My name is Victoria. I'm a Solutions/Integration Engineer and a passionate techn
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [6 Scientific Tips to Learn and Improve on Any Skills Efficiently](https://lo-victoria.com/6-scientific-tips-to-learn-and-improve-on-any-skills-efficiently)
 - [Finance Frenzy: A Truly Unique Hackathon Experience](https://lo-victoria.com/finance-frenzy-a-truly-unique-hackathon-experience)
 - [Curate Top Programming Blogs with React and HarperDB](https://lo-victoria.com/curate-top-programming-blogs-with-react-and-harperdb)
 - [How to Set Up AWS Relational Database Services with MySQL](https://lo-victoria.com/how-to-set-up-aws-relational-database-services-with-mysql)
 - [Build an Authentication System with AWS Amplify, Cognito and React](https://lo-victoria.com/build-an-authentication-system-with-aws-amplify-cognito-and-react)
-- [Build a Simple Discord Bot in Node.js for Beginners](https://lo-victoria.com/build-a-simple-discord-bot-in-nodejs-for-beginners)
 <!-- BLOG:END -->
 
 -----
