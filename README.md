@@ -42,11 +42,11 @@ My name is Victoria. I'm a Solutions/Integration Engineer and a passionate techn
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [5 Tips to Easily Get Familiarize With Any Codebase](https://lo-victoria.com/5-tips-to-easily-get-familiarize-with-any-codebase)
 - [A Quick Beginner's Guide to Set Up Auth0 + React](https://lo-victoria.com/a-quick-beginners-guide-to-set-up-auth0-react)
 - [GraphQL for Beginners: Build Real-Time Chat App with Apollo Client and React](https://lo-victoria.com/graphql-for-beginners-build-real-time-chat-app-with-apollo-client-and-react)
 - [GraphQL for Beginners: Setting Up GraphQL Server](https://lo-victoria.com/graphql-for-beginners-setting-up-graphql-server)
 - [GraphQL for Beginners: Subscriptions, Schemas and Servers](https://lo-victoria.com/graphql-for-beginners-subscriptions-schemas-and-servers)
-- [GraphQL for Beginners: Introduction](https://lo-victoria.com/graphql-for-beginners-introduction)
 <!-- BLOG:END -->
 
 -----
