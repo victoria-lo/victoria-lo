@@ -42,11 +42,11 @@ My name is Victoria. I'm a Solutions/Integration Engineer and a passionate techn
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
-- [GitHub Actions 101: Develop a CI/CD Workflow](https://lo-victoria.com/github-actions-101-develop-a-cicd-workflow)
 - [GitHub Actions 101: Actions, Actions, Actions](https://lo-victoria.com/github-actions-101-actions-actions-actions)
 - [GitHub Actions 101: Deep Dive into Workflow Attributes](https://lo-victoria.com/github-actions-101-deep-dive-into-workflow-attributes)
 - [GitHub Actions 101: Creating Your First Workflow](https://lo-victoria.com/github-actions-101-creating-your-first-workflow)
 - [5 Tips to Easily Get Familiarize With Any Codebase](https://lo-victoria.com/5-tips-to-easily-get-familiarize-with-any-codebase)
+- [A Quick Beginner's Guide to Set Up Auth0 + React](https://lo-victoria.com/a-quick-beginners-guide-to-set-up-auth0-react)
 <!-- BLOG:END -->
 
 -----
