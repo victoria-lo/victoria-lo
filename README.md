@@ -42,11 +42,11 @@ My name is Victoria. I'm a Solutions/Integration Engineer and a passionate techn
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
-- [Introduction to Redux Toolkit for Beginners](https://lo-victoria.com/introduction-to-redux-toolkit-for-beginners)
 - [5 Scary Developer Stories for Halloween](https://lo-victoria.com/5-scary-developer-stories-for-halloween)
 - [What I Learned from 3 Hackathons in 3 months](https://lo-victoria.com/what-i-learned-from-3-hackathons-in-3-months)
 - [Front-end Monitoring with Sentry and React](https://lo-victoria.com/front-end-monitoring-with-sentry-and-react)
 - [Product Superstories: What It Takes to be a Product Manager](https://lo-victoria.com/product-superstories-what-it-takes-to-be-a-product-manager)
+- [GitHub Actions 101 Finale: Build Your Custom Action](https://lo-victoria.com/github-actions-101-finale-build-your-custom-action)
 <!-- BLOG:END -->
 
 -----
