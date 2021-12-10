@@ -42,11 +42,11 @@ My name is Victoria. I'm a Solutions/Integration Engineer and a passionate techn
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [3 Ways to Implement Skeleton Components in React](https://lo-victoria.com/3-ways-to-implement-skeleton-components-in-react)
 - [3 Simple Ways to Make Your Blog More Readable](https://lo-victoria.com/3-simple-ways-to-make-your-blog-more-readable)
 - [How to Write a Stellar Article Introduction for Your Blog](https://lo-victoria.com/how-to-write-a-stellar-article-introduction-for-your-blog)
 - [GraphQL for Beginners: Fetch Data from GraphQL APIs with Apollo Client](https://lo-victoria.com/graphql-for-beginners-fetch-data-from-graphql-apis-with-apollo-client)
 - [A Look At React Hooks: useSWR for Data Fetching in React](https://lo-victoria.com/a-look-at-react-hooks-useswr-for-data-fetching-in-react)
-- [Introduction to Redux Toolkit for Beginners](https://lo-victoria.com/introduction-to-redux-toolkit-for-beginners)
 <!-- BLOG:END -->
 
 -----
