@@ -42,11 +42,11 @@ My name is Victoria. I'm a Solutions/Integration Engineer and a passionate techn
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [How I Build a Conversational AI App in Less Than 40 Hours with Dasha.AI](https://lo-victoria.com/how-i-build-a-conversational-ai-app-in-less-than-40-hours-with-dashaai)
 - [My 2021 in Summary: Highlights and Lessons](https://lo-victoria.com/my-2021-in-summary-highlights-and-lessons)
 - [Comprehensive Guide on How to Get Started on your First Hackathon](https://lo-victoria.com/comprehensive-guide-on-how-to-get-started-on-your-first-hackathon)
 - [How to Use State Machines in Your Apps](https://lo-victoria.com/how-to-use-state-machines-in-your-apps)
 - [3 Ways to Implement Skeleton Components in React](https://lo-victoria.com/3-ways-to-implement-skeleton-components-in-react)
-- [3 Simple Ways to Make Your Blog More Readable](https://lo-victoria.com/3-simple-ways-to-make-your-blog-more-readable)
 <!-- BLOG:END -->
 
 -----
