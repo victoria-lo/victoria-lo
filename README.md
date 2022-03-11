@@ -42,11 +42,11 @@ My name is Victoria. I'm a Solutions/Integration Engineer and a passionate techn
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [A Look At React Hooks: useScrollPosition for Parallax Scrolling Effects](https://lo-victoria.com/a-look-at-react-hooks-usescrollposition-for-parallax-scrolling-effects)
 - [My Top 6 Strategies to Overcome Writer&#39;s Block](https://lo-victoria.com/my-top-6-strategies-to-overcome-writers-block)
 - [5 Best Side Projects to Build as a Beginner](https://lo-victoria.com/5-best-side-projects-to-build-as-a-beginner)
 - [A Look at React Hooks: useRef to Scroll to an Element](https://lo-victoria.com/a-look-at-react-hooks-useref-to-scroll-to-an-element)
 - [Learning Design Patterns: A Summary](https://lo-victoria.com/learning-design-patterns-a-summary)
-- [How I Got Codex to Build my Website &lpar;Almost&rpar;](https://lo-victoria.com/how-i-got-codex-to-build-my-website-almost)
 <!-- BLOG:END -->
 
 -----
