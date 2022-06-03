@@ -42,11 +42,11 @@ My name is Victoria. I'm a Solutions/Integration Engineer and a passionate techn
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [How to Send Emails Easily using SmtpJS.com](https://lo-victoria.com/how-to-send-emails-easily-using-smtpjscom)
 - [The Reality of Writing Consistently for 2 Years: A Personal Story](https://lo-victoria.com/the-reality-of-writing-consistently-for-2-years-a-personal-story)
 - [How to Integrate PayPal Smart Buttons to your Web Apps](https://lo-victoria.com/how-to-integrate-paypal-smart-buttons-to-your-web-apps)
 - [Automating Tests with Selenium #3: Integrating with Mocha](https://lo-victoria.com/automating-tests-with-selenium-3-integrating-with-mocha)
 - [Automating Tests with Selenium #2: Assertion-based Tests](https://lo-victoria.com/automating-tests-with-selenium-2-assertion-based-tests)
-- [Automating Tests with Selenium #1: Getting Started](https://lo-victoria.com/automating-tests-with-selenium-1-getting-started)
 <!-- BLOG:END -->
 
 -----
