@@ -32,11 +32,11 @@ Thanks for checking out my blog. If you have read some of my articles and wish t
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [Victoria’s Edition: My Journey Into Tech](https://lo-victoria.com/victorias-edition-my-journey-into-tech)
 - [How to Make a React Library System using Firestore #2](https://lo-victoria.com/how-to-make-a-react-library-system-using-firestore-2)
 - [How to Make a React Library System using Firestore #1](https://lo-victoria.com/how-to-make-a-react-library-system-using-firestore-1)
 - [How to use GraphQL in React Native](https://lo-victoria.com/how-to-use-graphql-in-react-native)
 - [How to embed live video chats via Whereby Embedded](https://lo-victoria.com/how-to-embed-live-video-chats-via-whereby-embedded)
-- [Introduction to Vite: The Next Generation Frontend Tooling](https://lo-victoria.com/introduction-to-vite-the-next-generation-frontend-tooling)
 <!-- BLOG:END -->
 
 -----
