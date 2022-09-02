@@ -32,11 +32,11 @@ Thanks for checking out my blog. If you have read some of my articles and wish t
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [Introducing JIRA Foresight: Small Optimizations For Higher Efficiency](https://lo-victoria.com/introducing-jira-foresight-small-optimizations-for-higher-efficiency)
 - [Hashnode: What Sets It Apart From the Rest](https://lo-victoria.com/hashnode-what-sets-it-apart-from-the-rest)
 - [Victoria’s Edition: My Journey Into Tech](https://lo-victoria.com/victorias-edition-my-journey-into-tech)
 - [How to Make a React Library System using Firestore #2](https://lo-victoria.com/how-to-make-a-react-library-system-using-firestore-2)
 - [How to Make a React Library System using Firestore #1](https://lo-victoria.com/how-to-make-a-react-library-system-using-firestore-1)
-- [How to use GraphQL in React Native](https://lo-victoria.com/how-to-use-graphql-in-react-native)
 <!-- BLOG:END -->
 
 -----
