@@ -32,11 +32,11 @@ Thanks for checking out my README. If you have read some of my articles and wish
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [The Introvert&#39;s Edge to Networking: Key Takeaways](https://lo-victoria.com/the-introverts-edge-to-networking-key-takeaways)
 - [Top 3 Resources to Learn Data Structures &amp; Algorithms](https://lo-victoria.com/top-3-resources-to-learn-data-structures-algorithms)
 - [Introducing JIRA Foresight: Small Optimizations For Higher Efficiency](https://lo-victoria.com/introducing-jira-foresight-small-optimizations-for-higher-efficiency)
 - [Hashnode: What Sets It Apart From the Rest](https://lo-victoria.com/hashnode-what-sets-it-apart-from-the-rest)
 - [Victoria’s Edition: My Journey Into Tech](https://lo-victoria.com/victorias-edition-my-journey-into-tech)
-- [How to Make a React Library System using Firestore #2](https://lo-victoria.com/how-to-make-a-react-library-system-using-firestore-2)
 <!-- BLOG:END -->
 
 -----
