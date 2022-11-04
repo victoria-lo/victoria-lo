@@ -32,11 +32,11 @@ Thanks for checking out my README. If you have read some of my articles and wish
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [Import Maps 101](https://lo-victoria.com/import-maps-101)
 - [A Look at React Hooks: useParams for Dynamic Routing](https://lo-victoria.com/a-look-at-react-hooks-useparams-for-dynamic-routing)
 - [The Complete Guide to Integrate PayPal in Mobile Apps](https://lo-victoria.com/the-complete-guide-to-integrate-paypal-in-mobile-apps)
 - [The Introvert&#39;s Edge to Networking: Key Takeaways](https://lo-victoria.com/the-introverts-edge-to-networking-key-takeaways)
 - [Top 3 Resources to Learn Data Structures &amp; Algorithms](https://lo-victoria.com/top-3-resources-to-learn-data-structures-algorithms)
-- [Introducing JIRA Foresight: Small Optimizations For Higher Efficiency](https://lo-victoria.com/introducing-jira-foresight-small-optimizations-for-higher-efficiency)
 <!-- BLOG:END -->
 
 -----
