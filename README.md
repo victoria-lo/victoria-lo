@@ -32,11 +32,11 @@ Thanks for checking out my README. If you have read some of my articles and wish
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [5 Reasons Why Blogging May Not Be For You](https://lo-victoria.com/5-reasons-why-blogging-may-not-be-for-you)
 - [A Look at React Hooks: useRef vs useState](https://lo-victoria.com/a-look-at-react-hooks-useref-vs-usestate)
 - [Import Maps 101](https://lo-victoria.com/import-maps-101)
 - [A Look at React Hooks: useParams for Dynamic Routing](https://lo-victoria.com/a-look-at-react-hooks-useparams-for-dynamic-routing)
 - [The Complete Guide to Integrate PayPal in Mobile Apps](https://lo-victoria.com/the-complete-guide-to-integrate-paypal-in-mobile-apps)
-- [The Introvert&#39;s Edge to Networking: Key Takeaways](https://lo-victoria.com/the-introverts-edge-to-networking-key-takeaways)
 <!-- BLOG:END -->
 
 -----
