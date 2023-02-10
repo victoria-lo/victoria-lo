@@ -32,11 +32,11 @@ Thanks for checking out my README. If you have read some of my articles and wish
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [Vitest: Blazing Fast Unit Test Framework](https://lo-victoria.com/vitest-blazing-fast-unit-test-framework)
 - [GraphQL for Beginners: Implementing a Robust Payment System](https://lo-victoria.com/graphql-for-beginners-implementing-a-robust-payment-system)
 - [Best Blogging Platforms for Developers in 2023](https://lo-victoria.com/best-blogging-platforms-for-developers-in-2023)
 - [2022: A Year in Review](https://lo-victoria.com/2022-a-year-in-review)
 - [5 Questions to Ask For Your Next Article Topic](https://lo-victoria.com/5-questions-to-ask-for-your-next-article-topic)
-- [A Look at React Hooks: useNavigation](https://lo-victoria.com/a-look-at-react-hooks-usenavigation)
 <!-- BLOG:END -->
 
 -----
