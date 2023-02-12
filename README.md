@@ -3,12 +3,12 @@
 
 ### 👋 Hello world!
 
-My name is Victoria. I'm a Solutions/Integration Engineer and a passionate technical blogger on the side. Besides loving my job and my side hustle as a freelance writer, I love to read books, play video games and collect quotes. As a technical content writer, I write for the largest publishers on [Medium](https://victoria2666.medium.com/) such as The Startup, Level Up Coding, Better Programming and JavaScript in Plain English while publishing on my personal blog, [Articles By Victoria](https://lo-victoria.com)!
+My name is Victoria. I'm a solutions engineer, technical blogger, speaker, GitHub Star and WomenWhoCode evangelist. Besides loving my job and my side hustles, I love to read books, play video games and collect quotes. As a technical content writer, I write for the largest publishers on [Medium](https://victoria2666.medium.com/) such as The Startup, Level Up Coding, Better Programming and JavaScript in Plain English while publishing on my personal blog, [Articles By Victoria](https://lo-victoria.com)!
 
 ### 🧐 Some Things About Me
 - 💼 Solutions/Integration Engineer at PayPal
 - ✍️Technical Blogger at lo-victoria.com, Medium, Dev.to & Hashnode.
-- 🌐 Exists somewhere on [Twitter](https://twitter.com/lo_victoria2666), [Hashnode](https://lo-victoria.com/), [Medium](https://medium.com/@victoria2666), [Dev.to](https://dev.to/lo_victoria2666).
+- 🌐 Exists somewhere on [Twitter](https://twitter.com/lo_victoria2666), [Hashnode](https://lo-victoria.com/), [Medium](https://medium.com/@victoria2666), [Showwcase](https://www.showwcase.com/victoria-lo).
 - 😄 Pronouns: She/her
 - 🖥️ Coding Environment: Dark 🕶️ + Music 🎧 + Tea 🍵
 - ⚡ Fun facts: Speaks English, Mandarin, Indonesian, Japanese and Korean. INTJ. Drinks tea everyday.
