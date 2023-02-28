@@ -3,7 +3,7 @@
 
 ### 👋 Hello world!
 
-My name is Victoria. I'm a solutions engineer, technical blogger, speaker, GitHub Star and WomenWhoCode evangelist. Besides loving my job and my side hustles, I love to read books, play video games and collect quotes. As a technical content writer, I write for the largest publishers on [Medium](https://victoria2666.medium.com/) such as The Startup, Level Up Coding, Better Programming and JavaScript in Plain English while publishing on my personal blog, [Articles By Victoria](https://lo-victoria.com)!
+My name is Victoria. I'm a solutions engineer, technical blogger, speaker, [GitHub Star](https://stars.github.com/profiles/victoria-lo/) and WomenWhoCode evangelist. Besides loving my job and my side hustles, I love to read books, play video games and collect quotes. As a technical content writer, I write for the largest publishers on [Medium](https://victoria2666.medium.com/) such as The Startup, Level Up Coding, Better Programming and JavaScript in Plain English while publishing on my personal blog, [Articles By Victoria](https://lo-victoria.com)!
 
 ### 🧐 Some Things About Me
 - 💼 Solutions/Integration Engineer at PayPal
