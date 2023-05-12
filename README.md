@@ -32,11 +32,11 @@ Thanks for checking out my README. If you have read some of my articles and wish
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [A Look At React Hooks: The New `use` Hook](https://lo-victoria.com/a-look-at-react-hooks-the-new-use-hook)
 - [Coding is Art: Incorporating Design Patterns Into Your Code](https://lo-victoria.com/coding-is-art-incorporating-design-patterns-into-your-code)
 - [Introduction to the GitHub GraphQL API: Step-by-Step Guide](https://lo-victoria.com/introduction-to-the-github-graphql-api-step-by-step-guide)
 - [The Developer&#39;s Guide to achieving Deep Work for Focus &amp; Productivity](https://lo-victoria.com/the-developers-guide-to-achieving-deep-work-for-focus-productivity)
 - [I had a dream, but bugs were in the way](https://lo-victoria.com/i-had-a-dream-but-bugs-were-in-the-way)
-- [Vitest: Blazing Fast Unit Test Framework](https://lo-victoria.com/vitest-blazing-fast-unit-test-framework)
 <!-- BLOG:END -->
 
 -----
