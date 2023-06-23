@@ -32,11 +32,11 @@ Thanks for checking out my README. If you have read some of my articles and wish
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [Building a 2nd Brain by Tiago Forte: How to Implement a Digital System](https://lo-victoria.com/building-a-2nd-brain-by-tiago-forte-review)
 - [A Look At React Hooks: useSyncExternalStore](https://lo-victoria.com/a-look-at-react-hooks-usesyncexternalstore)
 - [Enhancing Public Speaking Skills: A Guide by an Introvert](https://lo-victoria.com/enhancing-public-speaking-skills-a-guide-by-an-introvert)
 - [A Look At React Hooks: The New `use` Hook](https://lo-victoria.com/a-look-at-react-hooks-the-new-use-hook)
 - [Coding is Art: Incorporating Design Patterns Into Your Code](https://lo-victoria.com/coding-is-art-incorporating-design-patterns-into-your-code)
-- [Introduction to the GitHub GraphQL API: Step-by-Step Guide](https://lo-victoria.com/introduction-to-the-github-graphql-api-step-by-step-guide)
 <!-- BLOG:END -->
 
 -----
