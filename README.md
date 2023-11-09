@@ -40,5 +40,3 @@ Thanks for checking out my README. If you have read some of my articles and wish
 <!-- BLOG:END -->
 
 -----
-
-![Victoria's github stats](https://github-readme-stats.vercel.app/api?username=victoria-lo&show_icons=true&count_private=true&hide=issues,prs)
