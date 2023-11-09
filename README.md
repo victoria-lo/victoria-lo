@@ -3,17 +3,18 @@
 
 ### 👋 Hello world!
 
-My name is Victoria. I'm a solutions engineer, technical blogger, speaker, [GitHub Star](https://stars.github.com/profiles/victoria-lo/) and WomenWhoCode evangelist. Besides loving my job and my side hustles, I love to read books, play video games and collect quotes. As a technical content writer, I write for the largest publishers on [Medium](https://victoria2666.medium.com/) such as The Startup, Level Up Coding, Better Programming and JavaScript in Plain English while publishing on my personal blog, [Articles By Victoria](https://lo-victoria.com)!
+My name is Victoria. I'm a solutions engineer, technical blogger, speaker, [GitHub Star](https://stars.github.com/profiles/victoria-lo/) and [WomenWhoCode Singapore](https://www.womenwhocode.com/network/singapore/) leader. Besides loving my job and my side hustles, I love to read books, play video games and collect quotes. As a technical content writer, I write for the largest publishers on [Medium](https://victoria2666.medium.com/) such as The Startup, Level Up Coding, Better Programming and JavaScript in Plain English while publishing on my personal blog, [Articles By Victoria](https://lo-victoria.com)!
 
 ### 🧐 Some Things About Me
-- 💼 Solutions/Integration Engineer at PayPal
-- ✍️Technical Blogger at lo-victoria.com, Medium, Dev.to & Hashnode.
+- 💼 Solutions Engineer at PayPal
+- ✍️Technical Blogger
+- 👩‍💻 WomenWhoCode Singapore leader
 - 🌐 Exists somewhere on [Twitter](https://twitter.com/lo_victoria2666), [Hashnode](https://lo-victoria.com/), [Medium](https://medium.com/@victoria2666), [Showwcase](https://www.showwcase.com/victoria-lo).
 - 😄 Pronouns: She/her
 - 🖥️ Coding Environment: Dark 🕶️ + Music 🎧 + Tea 🍵
 - ⚡ Fun facts: Speaks English, Mandarin, Indonesian, Japanese and Korean. INTJ. Drinks tea everyday.
 - 🏠 Hogwarts House: Ravenclaw
-- 💎 Treasures: Nintendo Switch, ebooks, [my nerd stuff](https://lo-victoria.com/nerd-stuff)
+- 💎 Treasures: Nintendo Switch, books, [my nerd stuff](https://lo-victoria.com/nerd-stuff)
 - 💬 Favourite Quotes: 
 
 > "If you don't wake up everyday with a burning desire to do things, you don't have enough goals." - Lou Holtz
