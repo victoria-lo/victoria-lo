@@ -33,11 +33,11 @@ Thanks for checking out my README. If you have read some of my articles and wish
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
-- [Is Tech Blogging still relevant in 2024?](https://victoria.hashnode.dev/is-tech-blogging-still-relevant-in-2024)
-- [2023 Recap: My Self-Evaluation Review](https://victoria.hashnode.dev/2023-recap-my-self-evaluation-review)
-- [5 Benefits of Joining an Offline Tech Community](https://victoria.hashnode.dev/5-benefits-of-joining-an-offline-tech-community)
-- [An Introduction to Neo4J and Graph Databases](https://victoria.hashnode.dev/an-introduction-to-neo4j-and-graph-databases)
-- [How to Build a Next.Js E-Commerce Website with Medusa](https://victoria.hashnode.dev/how-to-build-a-nextjs-e-commerce-website-with-medusa)
+- [Is Tech Blogging still relevant in 2024?](https://lo-victoria.com/is-tech-blogging-still-relevant-in-2024)
+- [2023 Recap: My Self-Evaluation Review](https://lo-victoria.com/2023-recap-my-self-evaluation-review)
+- [5 Benefits of Joining an Offline Tech Community](https://lo-victoria.com/5-benefits-of-joining-an-offline-tech-community)
+- [An Introduction to Neo4J and Graph Databases](https://lo-victoria.com/an-introduction-to-neo4j-and-graph-databases)
+- [How to Build a Next.Js E-Commerce Website with Medusa](https://lo-victoria.com/how-to-build-a-nextjs-e-commerce-website-with-medusa)
 <!-- BLOG:END -->
 
 -----
