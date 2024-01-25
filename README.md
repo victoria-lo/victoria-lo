@@ -33,7 +33,7 @@ Thanks for checking out my README. If you have read some of my articles and wish
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
-- [How to Build a Guestbook Feature on your Next.js Website with Firestore and Perspective API &lpar;Part 1&rpar;](https://lo-victoria.com/how-to-build-a-guestbook-feature-on-your-nextjs-website-with-firestore-and-perspective-api-part-1)
+- [How to Build a Guestbook with Firestore and Perspective API &lpar;Part 1&rpar;](https://lo-victoria.com/how-to-build-a-guestbook-feature-on-your-nextjs-website-with-firestore-and-perspective-api-part-1)
 - [Is Tech Blogging still relevant in 2024?](https://lo-victoria.com/is-tech-blogging-still-relevant-in-2024)
 - [2023 Recap: My Self-Evaluation Review](https://lo-victoria.com/2023-recap-my-self-evaluation-review)
 - [5 Benefits of Joining an Offline Tech Community](https://lo-victoria.com/5-benefits-of-joining-an-offline-tech-community)
