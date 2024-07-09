@@ -33,11 +33,11 @@ Thanks for checking out my README. If you have read some of my articles and wish
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [Setting Up GitHub for MLOps](https://lo-victoria.com/setting-up-github-for-mlops)
 - [Introduction to MLOps and GitHub Actions](https://lo-victoria.com/introduction-to-mlops-and-github-actions)
 - [Breaking Barriers: Inspiring Women in Tech - A Tribute to International Women&#39;s Day](https://lo-victoria.com/breaking-barriers-inspiring-women-in-tech-a-tribute-to-international-womens-day)
 - [Hashnode Academy: Your Go-To Tech Learning Hub](https://lo-victoria.com/hashnode-academy)
 - [How to Build a Guestbook Feature with Firestore and Perspective API &lpar;Part 2&rpar;](https://lo-victoria.com/how-to-build-a-guestbook-feature-with-firestore-and-perspective-api-part-2)
-- [How to Build a Guestbook with Firestore and Perspective API &lpar;Part 1&rpar;](https://lo-victoria.com/how-to-build-a-guestbook-feature-on-your-nextjs-website-with-firestore-and-perspective-api-part-1)
 <!-- BLOG:END -->
 
 -----
