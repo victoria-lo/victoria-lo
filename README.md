@@ -33,11 +33,11 @@ Thanks for checking out my README. If you have read some of my articles and wish
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [Advanced MLOps Techniques with GitHub Actions](https://lo-victoria.com/advanced-mlops-techniques-with-github-actions)
 - [Implementing CI/CD Pipelines with GitHub Actions for MLOps](https://lo-victoria.com/implementing-cicd-pipelines-with-github-actions-for-mlops)
 - [Setting Up GitHub for MLOps](https://lo-victoria.com/setting-up-github-for-mlops)
 - [Introduction to MLOps and GitHub Actions](https://lo-victoria.com/introduction-to-mlops-and-github-actions)
 - [Breaking Barriers: Inspiring Women in Tech - A Tribute to International Women&#39;s Day](https://lo-victoria.com/breaking-barriers-inspiring-women-in-tech-a-tribute-to-international-womens-day)
-- [Hashnode Academy: Your Go-To Tech Learning Hub](https://lo-victoria.com/hashnode-academy)
 <!-- BLOG:END -->
 
 -----
