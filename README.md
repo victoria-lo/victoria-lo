@@ -3,7 +3,11 @@
 
 ### 👋 Hello world!
 
-My name is Victoria. I'm a solutions engineer, technical blogger, speaker, [GitHub Star](https://stars.github.com/profiles/victoria-lo/) and [WomenWhoCode Singapore](https://www.womenwhocode.com/network/singapore/) leader. Besides loving my job and my side hustles, I love to read books, play video games and collect quotes. As a technical content writer, I write for the largest publishers on [Medium](https://victoria2666.medium.com/) such as The Startup, Level Up Coding, Better Programming and JavaScript in Plain English while publishing on my personal blog, [Articles By Victoria](https://lo-victoria.com)!
+If you're new here, hi! My name is Victoria. I'm a solutions engineer, technical blogger, speaker, [GitHub Star](https://stars.github.com/profiles/victoria-lo/), newbie podcaster at [ragTech](https://ragtech.hashnode.dev/) and WomenDevs Singapore leader.
+My mission is to create communities of lifelong learners. As a leader at WomenDevs Singapore, I am dedicated to empowering women in the tech industry, fostering a network that propels their careers to new heights.
+
+Over the past 4 years, I've written beginner-friendly articles on web development and technical blogging, as well as non-tech topics such as productivity tips and occasional book reviews to feed my brain 🤓
+I also have a [Blogging series](https://lo-victoria.com/series/victorias-blogging-tips) for those who are new to tech blogging. If these topics interest you, subscribe to my newsletter to not miss reading my latest articles~
 
 ### 🧐 Some Things About Me
 - 💼 Solutions Engineer
