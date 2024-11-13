@@ -37,11 +37,11 @@ Thanks for checking out my README. If you have read some of my articles and wish
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [GitHub Models: An Overview of AI Prototyping](https://lo-victoria.com/github-models-an-overview-of-ai-prototyping)
 - [The Ultimate Networking Guide for Programmers](https://lo-victoria.com/the-ultimate-networking-guide-for-programmers)
 - [Directions in MLOps: Exploring More Collaboration with GitHub Actions](https://lo-victoria.com/directions-in-mlops-exploring-more-collaboration-with-github-actions)
 - [Best Practices and Optimization Tips for MLOps with GitHub Actions](https://lo-victoria.com/best-practices-and-optimization-tips-for-mlops-with-github-actions)
 - [Advanced MLOps Techniques with GitHub Actions](https://lo-victoria.com/advanced-mlops-techniques-with-github-actions)
-- [Implementing CI/CD Pipelines with GitHub Actions for MLOps](https://lo-victoria.com/implementing-cicd-pipelines-with-github-actions-for-mlops)
 <!-- BLOG:END -->
 
 -----
