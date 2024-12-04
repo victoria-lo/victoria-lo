@@ -37,11 +37,11 @@ Thanks for checking out my README. If you have read some of my articles and wish
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [Building a Simple FAQ Bot Using AISuite](https://lo-victoria.com/building-a-simple-faq-bot-using-aisuite)
 - [GitHub Models: Responsible Use of GitHub Models and Best Practices](https://lo-victoria.com/github-models-responsible-use-of-github-models-and-best-practices)
 - [GitHub Models: Integrating AI Models into Development Workflows](https://lo-victoria.com/github-models-integrating-ai-models-into-development-workflows)
 - [GitHub Models: An Overview of AI Prototyping](https://lo-victoria.com/github-models-an-overview-of-ai-prototyping)
 - [The Ultimate Networking Guide for Programmers](https://lo-victoria.com/the-ultimate-networking-guide-for-programmers)
-- [Directions in MLOps: Exploring More Collaboration with GitHub Actions](https://lo-victoria.com/directions-in-mlops-exploring-more-collaboration-with-github-actions)
 <!-- BLOG:END -->
 
 -----
