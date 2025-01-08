@@ -37,11 +37,11 @@ Thanks for checking out my README. If you have read some of my articles and wish
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [How to Start Technical Writing in 2025](https://lo-victoria.com/how-to-start-technical-writing-in-2025)
 - [2024: Year in Review](https://lo-victoria.com/2024-year-in-review)
 - [Building a Simple FAQ Bot Using AISuite](https://lo-victoria.com/building-a-simple-faq-bot-using-aisuite)
 - [GitHub Models: Responsible Use of GitHub Models and Best Practices](https://lo-victoria.com/github-models-responsible-use-of-github-models-and-best-practices)
 - [GitHub Models: Integrating AI Models into Development Workflows](https://lo-victoria.com/github-models-integrating-ai-models-into-development-workflows)
-- [GitHub Models: An Overview of AI Prototyping](https://lo-victoria.com/github-models-an-overview-of-ai-prototyping)
 <!-- BLOG:END -->
 
 -----
