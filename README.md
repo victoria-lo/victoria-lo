@@ -3,7 +3,7 @@
 
 ### 👋 Hello world!
 
-If you're new here, hi! My name is Victoria. I'm a solutions engineer, technical blogger, speaker, [GitHub Star](https://stars.github.com/profiles/victoria-lo/), podcaster at [ragTech](https://linktr.ee/ragtechdev) and Director of WomenDevs Singapore.
+If you're new here, hi! My name is Victoria. I'm a solutions engineer, technical blogger, speaker, [GitHub Star](https://stars.github.com/profiles/victoria-lo/), podcaster at [ragTech](https://linktr.ee/ragtechdev) and Director of [WomenDevs Singapore](https://linktr.ee/womendevssg).
 My mission is to build communities of lifelong learners. As a Director at WomenDevs Singapore, I am dedicated to empowering women in the tech industry, fostering a network that propels their careers to new heights.
 
 Since 2020, I've written beginner-friendly articles on web development and technical blogging, as well as non-tech topics such as productivity tips and occasional book reviews to feed my brain 🤓
