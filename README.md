@@ -37,11 +37,11 @@ Thanks for checking out my README. If you have read some of my articles and wish
 
 ### 📝 Check out my latest articles!
 <!-- BLOG:START -->
+- [Atomic Habits for Developers](https://lo-victoria.com/atomic-habits-for-developers)
 - [The Better Firebase? Introduction to Clerk.js](https://lo-victoria.com/introduction-to-clerkjs)
 - [A Comparison of AI Coding Tools: GitHub Copilot, Qodo and Codeium](https://lo-victoria.com/a-comparison-of-ai-coding-tools-github-copilot-qodo-and-codeium)
 - [How to Start Technical Writing in 2025](https://lo-victoria.com/how-to-start-technical-writing-in-2025)
 - [2024: Year in Review](https://lo-victoria.com/2024-year-in-review)
-- [Building a Simple FAQ Bot Using AISuite](https://lo-victoria.com/building-a-simple-faq-bot-using-aisuite)
 <!-- BLOG:END -->
 
 -----
