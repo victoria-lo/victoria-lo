@@ -1,17 +1,21 @@
-name: Lastest Articles
+name: Latest Articles
 on:
   schedule:
     # Runs every 6 hours
     - cron: "0 */6 * * *" 
   workflow_dispatch:
+permissions:
+  contents: write # To write the generated contents to the readme
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest Hashnode blog posts
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "BLOG"
           commit_message: "Updated readme with the latest Blog data"
