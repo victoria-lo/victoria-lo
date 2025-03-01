@@ -1,8 +1,5 @@
 name: Latest Articles
 on:
-  schedule:
-    # Runs every 6 hours
-    - cron: "0 */6 * * *" 
   workflow_dispatch:
 permissions:
   contents: write # To write the generated contents to the readme
