@@ -16,4 +16,4 @@ jobs:
         with:
           comment_tag_name: "BLOG"
           commit_message: "Updated readme with the latest Blog data"
-          feed_list: "https://victoria.hashnode.dev/rss.xml"
+          feed_list: "https://lo-victoria.com/rss.xml"
