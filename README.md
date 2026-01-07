@@ -36,12 +36,6 @@ Thanks for checking out my README. If you have read some of my articles and wish
 ------
 
 ### 📝 Check out my latest articles!
-<!-- BLOG:START -->
-- [The Truth about Vibe Coding (feat. GitHub Copilot Agent Mode)](https://lo-victoria.com/the-truth-about-vibe-coding-feat-github-copilot-agent-mode)
-- [Unapologetically Ambitious: A Review of Shellye Archambeau's Story](https://lo-victoria.com/unapologetically-ambitious-a-review-of-shellye-archambeaus-story)
-- [Atomic Habits for Developers](https://lo-victoria.com/atomic-habits-for-developers)
-- [A Comparison of AI Coding Tools: GitHub Copilot, Qodo and Codeium](https://lo-victoria.com/a-comparison-of-ai-coding-tools-github-copilot-qodo-and-codeium)
-- [How to Start Technical Writing in 2025](https://lo-victoria.com/how-to-start-technical-writing-in-2025)
-<!-- BLOG:END -->
-
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
 -----
