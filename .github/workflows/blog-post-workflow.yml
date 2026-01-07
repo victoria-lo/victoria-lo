@@ -1,22 +1,19 @@
-name: "📚 Blog Updater"
-
+name: Latest Articles
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 0 * * *' # Runs Every Day
+permissions:
+  contents: write # To write the generated contents to the readme
 
 jobs:
-  update_blogs:
-    name: "Update Blogs"
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - name: "📥  Fetching Repository Contents"
-        uses: actions/checkout@main
-
-      - name: "📚  Hashnode Updater"
-        uses: "varunsridharan/action-hashnode-blog@main"
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          USERNAME: "victoria" # Hashnode Username
-          COUNT: 5 # MAX Visisble
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          comment_tag_name: "BLOG"
+          commit_message: "Updated readme with the latest Blog data"
+          feed_list: "https://lo-victoria.com/rss.xml"
