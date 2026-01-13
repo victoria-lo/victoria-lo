@@ -1,5 +1,7 @@
 name: Latest Articles
 on:
+  schedule: # Run workflow automatically
+      - cron: '0 0 * * *'
   workflow_dispatch:
 permissions:
   contents: write # To write the generated contents to the readme
@@ -17,3 +19,4 @@ jobs:
           comment_tag_name: "BLOG"
           commit_message: "Updated readme with the latest Blog data"
           feed_list: "https://lo-victoria.com/rss.xml"
+          max_post_count: 5
