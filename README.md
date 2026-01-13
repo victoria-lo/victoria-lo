@@ -37,11 +37,11 @@ Thanks for checking out my README. If you have read some of my articles and wish
 
 ### 📝 Latest Blog Posts
 <!-- BLOG:START -->
-- [The Truth about Vibe Coding (feat. GitHub Copilot Agent Mode)](https://lo-victoria.com/the-truth-about-vibe-coding-feat-github-copilot-agent-mode)
-- [Your Name Is Already a Search Term, You Just Need to Searchable](https://lo-victoria.com/your-name-is-already-a-search-term-you-just-need-to-searchable)
-- [Atomic Habits for Developers](https://lo-victoria.com/atomic-habits-for-developers)
-- [A Comparison of AI Coding Tools: GitHub Copilot, Qodo and Codeium](https://lo-victoria.com/a-comparison-of-ai-coding-tools-github-copilot-qodo-and-codeium)
+- [What Engineering Leaders Get Wrong About “Ownership”](https://lo-victoria.com/what-engineering-leaders-get-wrong-about-ownership)
 - [How to be a Writer Without AI, but With Your Own Voice](https://lo-victoria.com/how-to-be-a-writer-without-ai-but-with-your-own-voice)
+- [2025: Year in Review](https://lo-victoria.com/2025-year-in-review)
+- [Leading Through Systems: What The Fifth Discipline Taught Me About People, Processes, and Code](https://lo-victoria.com/leading-through-systems-what-the-fifth-discipline-taught-me-about-people-processes-and-code)
+- [A Day in the Life of a Solutions Engineer Lead](https://lo-victoria.com/a-day-in-the-life-of-a-solutions-engineer-lead)
 <!-- BLOG:END -->
 
 -----
