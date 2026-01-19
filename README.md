@@ -37,11 +37,11 @@ Thanks for checking out my README. If you have read some of my articles and wish
 
 ### 📝 Latest Blog Posts
 <!-- BLOG:START -->
+- [What I Learned about Data Governance and Why It Fails](https://lo-victoria.com/what-i-learned-about-data-governance-and-why-it-fails)
 - [What Engineering Leaders Get Wrong About “Ownership”](https://lo-victoria.com/what-engineering-leaders-get-wrong-about-ownership)
 - [How to be a Writer Without AI, but With Your Own Voice](https://lo-victoria.com/how-to-be-a-writer-without-ai-but-with-your-own-voice)
 - [2025: Year in Review](https://lo-victoria.com/2025-year-in-review)
 - [Leading Through Systems: What The Fifth Discipline Taught Me About People, Processes, and Code](https://lo-victoria.com/leading-through-systems-what-the-fifth-discipline-taught-me-about-people-processes-and-code)
-- [A Day in the Life of a Solutions Engineer Lead](https://lo-victoria.com/a-day-in-the-life-of-a-solutions-engineer-lead)
 <!-- BLOG:END -->
 
 -----
