@@ -37,11 +37,11 @@ Thanks for checking out my README. If you have read some of my articles and wish
 
 ### 📝 Latest Blog Posts
 <!-- BLOG:START -->
+- [How Cognitive Functions Changed the Way I Understand People](https://lo-victoria.com/how-cognitive-functions-changed-the-way-i-understand-people)
 - [Why “confidence” advice fails women engineers](https://lo-victoria.com/why-confidence-advice-fails-women-engineers)
 - [Context Engineering 101 for GitHub Copilot](https://lo-victoria.com/context-engineering-101-for-github-copilot)
 - [What I Learned about Data Governance and Why It Fails](https://lo-victoria.com/what-i-learned-about-data-governance-and-why-it-fails)
 - [What Engineering Leaders Get Wrong About “Ownership”](https://lo-victoria.com/what-engineering-leaders-get-wrong-about-ownership)
-- [How to be a Writer Without AI, but With Your Own Voice](https://lo-victoria.com/how-to-be-a-writer-without-ai-but-with-your-own-voice)
 <!-- BLOG:END -->
 
 -----
