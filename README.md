@@ -37,11 +37,11 @@ Thanks for checking out my README. If you have read some of my articles and wish
 
 ### 📝 Latest Blog Posts
 <!-- BLOG:START -->
+- [Claude Skills Explained](https://lo-victoria.com/claude-skills-explained)
 - [5 Types of “Difficult” People I Learned Were Just Different](https://lo-victoria.com/5-types-of-difficult-people-i-learned-were-just-different)
 - [How to Grow Your Blog in 2026](https://lo-victoria.com/how-to-grow-your-blog-in-2026)
 - [Why I Don&#39;t AI Generate My Blog Images](https://lo-victoria.com/why-i-dont-ai-generate-my-blog-images)
 - [How Cognitive Functions Changed the Way I Understand People](https://lo-victoria.com/how-cognitive-functions-changed-the-way-i-understand-people)
-- [Why “confidence” advice fails women engineers](https://lo-victoria.com/why-confidence-advice-fails-women-engineers)
 <!-- BLOG:END -->
 
 -----
