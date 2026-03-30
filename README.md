@@ -37,11 +37,11 @@ Thanks for checking out my README. If you have read some of my articles and wish
 
 ### 📝 Latest Blog Posts
 <!-- BLOG:START -->
+- [Why No One Actually Gets Hired From Online Applications](https://lo-victoria.com/why-no-one-actually-gets-hired-from-online-applications)
 - [Debunking the AI Bubble](https://lo-victoria.com/debunking-the-ai-bubble)
 - [How to Set Boundaries Professionally](https://lo-victoria.com/how-to-set-boundaries-professionally)
 - [Claude Skills Explained](https://lo-victoria.com/claude-skills-explained)
 - [5 Types of “Difficult” People I Learned Were Just Different](https://lo-victoria.com/5-types-of-difficult-people-i-learned-were-just-different)
-- [How to Grow Your Blog in 2026](https://lo-victoria.com/how-to-grow-your-blog-in-2026)
 <!-- BLOG:END -->
 
 -----
