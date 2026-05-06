@@ -37,11 +37,11 @@ Thanks for checking out my README. If you have read some of my articles and wish
 
 ### 📝 Latest Blog Posts
 <!-- BLOG:START -->
+- [Building My Second Brain on OpenClaw &lpar;Part 1&rpar;](https://lo-victoria.com/building-my-second-brain-on-openclaw-part-1)
 - [The Quiet Strength of Sitting With Problems](https://lo-victoria.com/the-quiet-strength-of-sitting-with-problems)
 - [Inside a Mastermind’s Mind: How Empire of AI Deconstructed the Great Game](https://lo-victoria.com/inside-a-masterminds-mind)
 - [Why No One Actually Gets Hired From Online Applications](https://lo-victoria.com/why-no-one-actually-gets-hired-from-online-applications)
 - [Debunking the AI Bubble](https://lo-victoria.com/debunking-the-ai-bubble)
-- [How to Set Boundaries Professionally](https://lo-victoria.com/how-to-set-boundaries-professionally)
 <!-- BLOG:END -->
 
 -----
