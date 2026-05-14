@@ -40,7 +40,7 @@ Thanks for checking out my README. If you have read some of my articles and wish
 - [Building My Second Brain on OpenClaw &lpar;Part 2&rpar;](https://lo-victoria.com/building-my-second-brain-on-openclaw-part-2)
 - [Building My Second Brain on OpenClaw &lpar;Part 1&rpar;](https://lo-victoria.com/building-my-second-brain-on-openclaw-part-1)
 - [The Quiet Strength of Sitting With Problems](https://lo-victoria.com/the-quiet-strength-of-sitting-with-problems)
-- [Inside a Mastermind’s Mind: How Empire of AI Deconstructed the Great Game](https://lo-victoria.com/inside-a-masterminds-mind)
+- [Inside a Mastermind&#39;s Mind: How Empire of AI Deconstructed the Great Game](https://lo-victoria.com/inside-a-masterminds-mind)
 - [Why No One Actually Gets Hired From Online Applications](https://lo-victoria.com/why-no-one-actually-gets-hired-from-online-applications)
 <!-- BLOG:END -->
 
