@@ -37,11 +37,11 @@ Thanks for checking out my README. If you have read some of my articles and wish
 
 ### 📝 Latest Blog Posts
 <!-- BLOG:START -->
+- [Building My Second Brain on OpenClaw &lpar;Part 5&rpar;](https://lo-victoria.com/building-my-second-brain-on-openclaw-part-5)
 - [Building My Second Brain on OpenClaw &lpar;Part 4&rpar;](https://lo-victoria.com/building-my-second-brain-on-openclaw-part-4)
 - [Building My Second Brain on OpenClaw &lpar;Part 3&rpar;](https://lo-victoria.com/building-my-second-brain-on-openclaw-part-3)
 - [Building My Second Brain on OpenClaw &lpar;Part 2&rpar;](https://lo-victoria.com/building-my-second-brain-on-openclaw-part-2)
 - [Building My Second Brain on OpenClaw &lpar;Part 1&rpar;](https://lo-victoria.com/building-my-second-brain-on-openclaw-part-1)
-- [The Quiet Strength of Sitting With Problems](https://lo-victoria.com/the-quiet-strength-of-sitting-with-problems)
 <!-- BLOG:END -->
 
 -----
