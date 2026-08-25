@@ -37,11 +37,11 @@ Thanks for checking out my README. If you have read some of my articles and wish
 
 ### 📝 Latest Blog Posts
 <!-- BLOG:START -->
+- [Building My Second Brain on OpenClaw &lpar;Part 10&rpar;](https://lo-victoria.com/building-my-second-brain-on-openclaw-part-10)
 - [Building My Second Brain on OpenClaw &lpar;Part 9&rpar;](https://lo-victoria.com/building-my-second-brain-on-openclaw-part-9)
 - [AEO in Practice: How I Made My Blog Agent-Ready](https://lo-victoria.com/aeo-how-i-made-my-blog-agent-ready)
 - [The Evolution of LLMs: From GPT-2 to Kimi K3](https://lo-victoria.com/evolution-of-llms)
 - [Building My Second Brain on OpenClaw &lpar;Part 8&rpar;](https://lo-victoria.com/building-my-second-brain-on-openclaw-part-8)
-- [Building My Second Brain on OpenClaw &lpar;Part 7&rpar;](https://lo-victoria.com/building-my-second-brain-on-openclaw-part-7)
 <!-- BLOG:END -->
 
 -----
